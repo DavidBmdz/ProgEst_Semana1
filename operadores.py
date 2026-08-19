@@ -1,3 +1,4 @@
+#Autor: David Bermúdez
 n1 = int(input("Ingrese el primer número: "))
 n2 = int(input("Ingrese el segundo número: "))
 
