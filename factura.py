@@ -1,5 +1,4 @@
-#Solicita nombre del producto, precio y cantidad. Calcula el subtotal y muestra un resumen de la compra.
-
+#Autor: David Bermúdez
 nombre = input("Ingrese el nombre del producto: ")
 precio = float(input("Ingrese el precio del producto: "))
 cantidad = int(input("Ingrese la cantidad del mismo producto: "))
