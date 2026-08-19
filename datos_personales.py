@@ -1,3 +1,4 @@
+#Autor: David Bermúdez
 nombre = str(input("Ingrese su nombre: "))
 edad = int(input("Ingrese su edad: "))
 carrera = str(input("Ingrese su carrera: "))
